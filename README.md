@@ -48,7 +48,7 @@ Esto iniciará el servidor de desarrollo y podrás ver la aplicación en tu nave
 
 - **Ant Design**: Librería de componentes UI para crear interfaces de usuario elegantes y modernas. [Documentación de Ant Design](https://ant.design/docs/react/introduce)
   
-- **Ant Design Charts/Plots**: Librería para la visualización de gráficos y datos, ideal para proyectos de dashboard. [Documentación de Ant Design Charts](https://charts.ant.design/en)
+- **Ant Design Charts/Plots**: Librería para la visualización de gráficos y datos, ideal para proyectos de dashboard. [Documentación de Ant Design Charts](https://ant-design-charts.antgroup.com/en/)
 
 ## Características
 
